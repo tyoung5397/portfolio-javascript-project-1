@@ -1,7 +1,6 @@
-# gscript-sales-report
-Google Scripts (container based) to build sales reports.
+# portfolio-javascript-project-1
+Javascript/GScript scripts to build sales reports.
 
-Note, this is a subset of an existing project and all company references have been removed.  This repository is intended to highlight my ability to create clean, documented, and maintainable javascript.
+This is a subset of an existing project.  All company references have been removed.  The repository is intended to highlight my ability to create clean, documented, and maintainable javascript.
 
 Thanks for having a look.  Cheers!
-
